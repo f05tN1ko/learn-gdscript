@@ -291,7 +291,7 @@ msgid "Many programmers do either or both of the above."
 msgstr "许多程序员都或多或少会用到上面这两种方式。"
 
 msgid "At GDQuest, we favor complete and explicit names."
-msgstr "在 GDQuest课程里，我们倾向于完整和明确的名称。"
+msgstr "在 GDQuest 课程里，我们倾向于完整和明确的名称。"
 
 msgid ""
 "We generally try to write code that is explicit and relatively easy to "
@@ -463,7 +463,7 @@ msgid ""
 "Time to write a complete function from scratch! You'll make a function "
 "that draws squares of any size."
 msgstr ""
-"是时候从头开始编写一个完整的函数了！你将编写一个能绘制任意大小正方形的函数。"
+"是时候从头开始编写一个完整的函数了！你将要学习编写一个能绘制任意大小正方形的函数。"
 
 msgid "I will call your function with different sizes:"
 msgstr "我会用不同的大小值来调用你的函数："
@@ -487,7 +487,7 @@ msgid ""
 "Your function needs to move forward by [code]length[/code], turn right "
 "90 degrees, and do this four times to complete all four sides of the square."
 msgstr ""
-"你的函数需要向前移动 [code]length[/code] 的距离，向右转 90 度，并将此过程重复四次，"
+"函数需要向前移动 [code]length[/code] 的距离，向右转 90 度，并将此过程重复四次，"
 "以画完正方形的全部四条边。"
 
 msgid ""
@@ -508,7 +508,7 @@ msgstr "绘制任意大小的矩形"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:386
 msgid "Let's create a function to draw rectangles with any length and height."
-msgstr "让我们创建一个函数，用来绘制任意长和高的矩形。"
+msgstr "创建一个函数，用来绘制任意长和高的矩形。"
 
 msgid "I will call your function twice with different sizes:"
 msgstr "我会用不同的大小调用你的函数两次："
@@ -518,7 +518,7 @@ msgid ""
 "When the app calls your function, the first number replaces [code]length[/code], "
 "and the second number replaces [code]height[/code]."
 msgstr ""
-"你的函数需要两个参数：[code]length[/code] 和 [code]height[/code]。"
+"函数需要两个参数：[code]length[/code] 和 [code]height[/code]。"
 "当应用调用函数时，第一个数值会替换 [code]length[/code]，而另一个会替换 [code]height[/code]。"
 
 msgid "Use [code]length[/code] when you move horizontally and [code]height[/code] when you move vertically."
@@ -527,13 +527,13 @@ msgstr "水平移动时请使用 [code]length[/code]，垂直移动请使用 [co
 msgid ""
 "This is the pattern you need to follow: move forward by [code]length[/code], turn right, move forward by "
 "[code]height[/code], turn right, then repeat this sequence once more."
-msgstr "你需要遵循这个模式：向前移动 [code]length[/code] 的距离，向右转，"
+msgstr "遵循这个模式：向前移动 [code]length[/code] 的距离，向右转，"
 "然后再重复一次这个过程。"
 
 msgid ""
 "[b]Important:[/b] When the turtle finishes drawing, it should face right. "
 "Make sure you turn right four times in total."
-msgstr "[b]重要提示：[/b]当乌龟画完时，它应该朝向右侧。请确保你总共右转了四次。"
+msgstr "[b]重要提示：[/b]当乌龟画完时，它应该朝向右侧。请确保乌龟总共右转了四次。"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:411
 msgid "You need to specify the two parameters in the function definition"
@@ -551,7 +551,7 @@ msgstr "在调用 move_forward 时，你需要交替使用 length 和 height 参
 msgid ""
 "With one parameter, you can make squares of any size. With two, you can "
 "draw any rectangle! You'll do so in this practice."
-msgstr "使用一个参数，你可以制作任意大小的正方形。 有了两个，你可以绘制任何矩形！ 你将在本练习中这样做。"
+msgstr "使用一个参数，你可以制作任意大小的正方形。有了两个，你可以绘制任何矩形！ 你将在本章中练习这样做。"
 
 #: course/lesson-6-multiple-function-parameters/lesson.tres:385
 msgid "Your First Function Parameter"
